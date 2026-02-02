@@ -30,7 +30,7 @@
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
 | STF04#2601  |           | Srisha Satish Kanna <br/> Sunath Reha Sreekumar| [SMARTEXPO: An AI-Based Simulation and Digital Twin System for Automated Exhibition Layout Planning and Crowd-Aware Optimization](https://github.com/AVV-IIC/SmartExpo-An-AI-Based-Simulation-and-Digital-Twin-System-for-Automated-Exhibition-Layout-Planning) | Mr. Ramaguru Radhakrishnan | Existing |
 | STF04#2602  |  Nexora   | Srinidhi M <br/> Gangalapudi Hrithikesh Reddy <br/> Lohitha M <br/> Karumuri Naga Sri Raghavendra Aditya |  | | |
-| STF04#2603  |  Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran | | | | 
+| STF04#2603  |  Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran <br/> Akula Manideep Reddy | | | | 
 | STF04#2604  |   | Raghavendra Singh Jagawat <br/> Somisetty Veda Sai |  | | | 
 
 ## [SFT-05: Smart Cities & Sustainable Living](https://github.com/AVV-IIC/SFT-Smart-Cities-Sustainable-Living)
