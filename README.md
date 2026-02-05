@@ -32,6 +32,7 @@
 | STF04#2602  |  Nexora   | Srinidhi M <br/> Gangalapudi Hrithikesh Reddy <br/> Lohitha M <br/> Karumuri Naga Sri Raghavendra Aditya | [AI-Based Political Sentiment and Ideological Analysis](https://github.com/AVV-IIC/AI-Based-Political-Sentiment-and-Ideological-Analysis) | Mr. Ramaguru Radhakrishnan | New |
 | STF04#2603  | Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran <br/> Akula Manideep Reddy | | | | 
 | STF04#2604  |   | Raghavendra Singh Jagawat <br/> Somisetty Veda Sai |  | | | 
+| STF04#2605  |   | Dharnesh K |  | | |
 
 ## [SFT-05: Smart Cities & Sustainable Living](https://github.com/AVV-IIC/SFT-Smart-Cities-Sustainable-Living)
 
