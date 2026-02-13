@@ -23,8 +23,9 @@
 | Team Number | Team Name |  Team Members | Title |  Mentor  | Existing/New | 
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
 | STF03#2601  |           | Tejhashwini C B | [Application of Magic Square in Cyber Security](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-in-Cyber-Security) | Mr. Ramaguru Radhakrishnan | Existing (NamChain Problem Statement) |
-| STF03#2602  | ThinkSecure | Vrithika K M <br/> S B Priyadharshika | [FAKE](https://github.com/ramagururadhakrishnan/FAKE) | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
-| STF03#2603  | Credora | Mithuraa Senthilkumar <br/> Sanjay G | Carbon Green Credits | Mr. Ramaguru Radhakrishnan | Existing (SIH Problem Statement)  |
+| STF03#2602  | Team Kernels | Rohith Kumar S S <br/> Nithish Raajan N K <br/> Mohamed Navith H | [Cryptocurrency Wallet Detector]() | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
+| STF03#2603  | ThinkSecure | Vrithika K M <br/> S B Priyadharshika | [FAKE](https://github.com/ramagururadhakrishnan/FAKE) | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
+| STF03#2604  | Credora | Mithuraa Senthilkumar <br/> Sanjay G | [Carbon Green Credits]() | Mr. Ramaguru Radhakrishnan | Existing (SIH Problem Statement)  |
 
 ## [SFT-04: Artificial Intelligence & Smart Systems](https://github.com/AVV-IIC/SFT-Artificial-Intelligence-Smart-Systems) ![](https://img.shields.io/badge/-Started-gold)
 
@@ -33,8 +34,8 @@
 | STF04#2601  | SmartExpo | Srisha Satish Kanna <br/> Sunath Reha Sreekumar| [SMARTEXPO: An AI-Based Simulation and Digital Twin System for Automated Exhibition Layout Planning and Crowd-Aware Optimization](https://github.com/AVV-IIC/SmartExpo-An-AI-Based-Simulation-and-Digital-Twin-System-for-Automated-Exhibition-Layout-Planning) | Mr. Ramaguru Radhakrishnan | Existing (Anokha TechFair & Exhibitions)|
 | STF04#2602  | VChain  | Abhishta H Mallaya |  | Mr. Ramaguru Radhakrishnan| Existing (NamChain Problem Statement) |
 | STF04#2603  | Nexora  | Srinidhi M <br/> Gangalapudi Hrithikesh Reddy <br/> Lohitha M <br/> Karumuri Naga Sri Raghavendra Aditya | [AI-Based Political Sentiment and Ideological Analysis](https://github.com/AVV-IIC/AI-Based-Political-Sentiment-and-Ideological-Analysis) | Mr. Ramaguru Radhakrishnan | New |
-| STF04#2604  | Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran <br/> Akula Manideep Reddy | | | | 
-| STF04#2605  |   | Raghavendra Singh Jagawat <br/> Somisetty Veda Sai | Indian Address Standardization | | | 
+| STF04#2604  | Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran <br/> Akula Manideep Reddy | Indian Address Standardization | | | 
+| STF04#2605  |   | Raghavendra Singh Jagawat <br/> Somisetty Veda Sai |  | | | 
 | STF04#2606  |   | Aswath Siddharth R  |  | | | 
 | STF04#2607  |   | Arun Pravin AP |  | | | 
 | STF04#2608  |   | Garrepalli Varshith |  | | | 
