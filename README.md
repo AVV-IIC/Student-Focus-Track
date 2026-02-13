@@ -28,7 +28,7 @@
 
 | Team Number | Team Name |  Team Members | Title |  Mentor  | Existing/New | 
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
-| STF04#2601  |           | Srisha Satish Kanna <br/> Sunath Reha Sreekumar| [SMARTEXPO: An AI-Based Simulation and Digital Twin System for Automated Exhibition Layout Planning and Crowd-Aware Optimization](https://github.com/AVV-IIC/SmartExpo-An-AI-Based-Simulation-and-Digital-Twin-System-for-Automated-Exhibition-Layout-Planning) | Mr. Ramaguru Radhakrishnan | Existing (Anokha TechFair & Exhibitions)|
+| STF04#2601  | SmartExpo | Srisha Satish Kanna <br/> Sunath Reha Sreekumar| [SMARTEXPO: An AI-Based Simulation and Digital Twin System for Automated Exhibition Layout Planning and Crowd-Aware Optimization](https://github.com/AVV-IIC/SmartExpo-An-AI-Based-Simulation-and-Digital-Twin-System-for-Automated-Exhibition-Layout-Planning) | Mr. Ramaguru Radhakrishnan | Existing (Anokha TechFair & Exhibitions)|
 | STF04#2602  |  Nexora   | Srinidhi M <br/> Gangalapudi Hrithikesh Reddy <br/> Lohitha M <br/> Karumuri Naga Sri Raghavendra Aditya | [AI-Based Political Sentiment and Ideological Analysis](https://github.com/AVV-IIC/AI-Based-Political-Sentiment-and-Ideological-Analysis) | Mr. Ramaguru Radhakrishnan | New |
 | STF04#2603  | Tech Yodhas | Joshika AS <br/> Metuku Rishit Kumar <br/> Samyuktha Ravichandran <br/> Akula Manideep Reddy | | | | 
 | STF04#2604  |   | Raghavendra Singh Jagawat <br/> Somisetty Veda Sai |  | | | 
@@ -39,7 +39,7 @@
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
 | STF06#2601  | EcoNova  | B Barath Kumar <br/> Vijaya Ragav S <br/> Hridaya P |  | |  |
 | STF06#2602  | CitiZenX | A Nandana <br/> S Sarvesh Vikram  |  | | |
-| STF06#2603  | Team SustDyn  | Vignesh V S <br/> Sivasankari S | | | | 
+| STF06#2603  | SustDyn  | Vignesh V S <br/> Sivasankari S | | | | 
 
 ## [SFT-06: Climate Action & Environmental Solutions](https://github.com/AVV-IIC/SFT-Climate-Action-Environmental-Solutions)
 
