@@ -22,7 +22,7 @@
 
 | Team Number | Team Name |  Team Members | Title |  Mentor  | Existing/New | 
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
-| STF03#2601  |           | Tejhashwini C B | [Application of Magic Square in Cyber Security](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-in-Cyber-Security) | Mr. Ramaguru Radhakrishnan | Existing (NamChain Problem Statement) |
+| STF03#2601  | MG<sup>2</sup>        | Tejhashwini C B | [Application of Magic Square in Cyber Security](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-in-Cyber-Security) | Mr. Ramaguru Radhakrishnan | Existing (NamChain Problem Statement) |
 | STF03#2602  | Team Kernels | Rohith Kumar S S <br/> Nithish Raajan N K <br/> Mohamed Navith H | [Cryptocurrency Wallet Detector]() | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
 | STF03#2603  | ThinkSecure | Vrithika K M <br/> S B Priyadharshika | [FAKE](https://github.com/ramagururadhakrishnan/FAKE) | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
 | STF03#2604  | Credora | Mithuraa Senthilkumar <br/> Sanjay G | [Carbon Green Credits]() | Mr. Ramaguru Radhakrishnan | Existing (SIH Problem Statement)  |
