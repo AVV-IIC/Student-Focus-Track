@@ -10,9 +10,9 @@
 
 | Team Number | Team Name |  Team Members | Title |  Mentor  | Existing/New | 
 |:-----------:|:---------:|:------|:-------|:--------:|:-------------:|
-| STF03#2601  | RT<sup>2</sup>        | [Tejhashwini C B](https://github.com/TejhashwiniCB) | [Application of Magic Square in Cyber Security](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-in-Cyber-Security) | Mr. Ramaguru Radhakrishnan | Existing (NamChain Problem Statement) |
-| STF03#2602  | Team Kernels | [Rohith Kumar S S](https://github.com/Rohith-Kumar-SS) <br/> [Nithish Raajan N K](https://github.com/NithishRaajan) <br/> [Mohamed Navith H](https://github.com/MohamedNavith) | [Cryptocurrency Wallet Detector]() | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
-| STF03#2603  | ThinkSecure | [S B Priyadharshika](https://github.com/Priyadharshika0207) | [FAKE](https://github.com/ramagururadhakrishnan/FAKE) | Mr. Ramaguru Radhakrishnan | Existing (B-RIG Problem Statement) |
+| STF03#2601  | RT<sup>2</sup>        | [Tejhashwini C B](https://github.com/TejhashwiniCB) | [Random Number Generator Using Magic Square](https://github.com/AVV-IIC/Random-Number-Generator-Using-Magic-Square) | Mr. Ramaguru Radhakrishnan | Existing (NamChain Problem Statement) |
+| STF03#2602  | Team Kernels | [Rohith Kumar S S](https://github.com/Rohith-Kumar-SS) <br/> [Nithish Raajan N K](https://github.com/NithishRaajan) <br/> [Mohamed Navith H](https://github.com/MohamedNavith) | [Cryptocurrency Wallet Detector](https://github.com/AVV-IIC/Cryptocurrency-Wallet-Detector) | Mr. Ramaguru Radhakrishnan | Existing (R<sup>3</sup> Lab)  |
+| STF03#2603  | ThinkSecure | [S B Priyadharshika](https://github.com/Priyadharshika0207) | [An AI-Based Framework for Detecting Fake Job Advertisements on Instagram](https://github.com/AVV-IIC/AI-Framework-Fake-Job-Ads-in-Instagram) | Mr. Ramaguru Radhakrishnan | Existing (R<sup>3</sup> Lab) |
 | STF03#2604  | Credora | [Mithuraa Senthilkumar](https://github.com/mith-sen) <br/> [Sanjay G](https://github.com/sanjaygurusamy) <br/> [Sakthivel S](https://github.com/sakthiv0010-oss) | [Carbon Green Credits]() | Mr. Ramaguru Radhakrishnan | Existing (SIH Problem Statement)  |
 
 ## [SFT-04: Artificial Intelligence & Smart Systems](https://github.com/AVV-IIC/SFT-Artificial-Intelligence-Smart-Systems) ![](https://img.shields.io/badge/-Started-gold)
@@ -21,12 +21,10 @@
 |:-----------:|:---------:|:-------------|:-------|:--------:|:-------------:|
 | STF04#2601  | SmartExpo | [Srisha Satish Kanna](https://github.com/srish-cmd) <br/> [Sunath Reha Sreekumar](https://github.com/Reha-Sreekumar) | [SMARTEXPO: An AI-Based Simulation and Digital Twin System for Automated Exhibition Layout Planning and Crowd-Aware Optimization](https://github.com/AVV-IIC/SmartExpo-An-AI-Based-Simulation-and-Digital-Twin-System-for-Automated-Exhibition-Layout-Planning) | Mr. Ramaguru Radhakrishnan | Existing (Anokha TechFair & Exhibitions)|
 | STF04#2602  | VChain  | [Abhishta H Mallaya](https://github.com/Abhishta-H-Mallaya) |  | Mr. Ramaguru Radhakrishnan| Existing (NamChain Problem Statement) |
-| STF04#2603  | Nexora  | [Srinidhi M](https://github.com/Srinidhi221) <br/> [Gangalapudi Hrithikesh Reddy](https://github.com/hrithikesh31) <br/> [Lohitha M](https://github.com/Lohitha-1209) <br/> [Karumuri Naga Sri Raghavendra Aditya](https://github.com/Aditya201206) | [AI-Based Political Sentiment and Ideological Analysis](https://github.com/AVV-IIC/AI-Based-Political-Sentiment-and-Ideological-Analysis) | Mr. Ramaguru Radhakrishnan | New |
+| STF04#2603  | Nexora  | [Srinidhi M](https://github.com/Srinidhi221) <br/> [Gangalapudi Hrithikesh Reddy](https://github.com/hrithikesh31) <br/> [Lohitha M](https://github.com/Lohitha-1209) <br/> [Karumuri Naga Sri Raghavendra Aditya](https://github.com/Aditya201206) | [AI-Based Political Sentiment and Ideological Analysis](https://github.com/AVV-IIC/AI-Based-Political-Sentiment-and-Ideological-Analysis) | Mr. Ramaguru Radhakrishnan | Existing (R<sup>3</sup> Lab) |
 | STF04#2604  | Tech Yodhas | [Joshika AS](https://github.com/josharu) <br/> [Metuku Rishit Kumar](https://github.com/rishitkumar8) <br/> [Samyuktha Ravichandran](https://github.com/SAMYUKTHARAVICHANDRAN) <br/> Akula Manideep Reddy | GeoNivaas: Indian Address Standardization | TBD | New | 
 | STF04#2605  | AgniTejas  | [Raghavendra Singh Jagawat]() <br/> [Somisetty Veda Sai]() | A Generative AI Music Experience | TBD | New | 
-| STF04#2606  |   | [Arun Pravin AP]() |  | TBD | New | 
-| STF04#2607  |   | [Garrepalli Varshith]() |  | TBD | New | 
-| STF04#2608  |   | [Aswath Siddharth R]()  | MicroMint  | TBD | Existing (MSME Submission)| 
+| STF04#2606  |   | [Garrepalli Varshith]() |  | TBD | New | 
 
 ## [SFT-05: Smart Cities & Sustainable Living](https://github.com/AVV-IIC/SFT-Smart-Cities-Sustainable-Living)  ![](https://img.shields.io/badge/-Started-gold)
 
